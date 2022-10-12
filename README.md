@@ -1,4 +1,4 @@
-### Olá! Eu sou o Eduardo Gabriel 👋
+## Olá! Eu sou o Eduardo Gabriel 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-gabriel-621ba7234/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](egmrosa@gmail.com)
@@ -23,4 +23,4 @@
 <br>
 <br>
 
-# Atualmente estudando JavaScript pela RocketSeat
+## Atualmente cursando Análise e desenvolvimento de sistemas pela FIAP e estudando JavaScript pela RocketSeat
